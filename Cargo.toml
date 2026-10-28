@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-archlinux-settings"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS archlinux-settings component (Arch Linux inspired)"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_archlinux-settings"
+path = "src/lib.rs"
