@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-settings"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-settings component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
